@@ -4,12 +4,12 @@
  * @package yii2-wizardwidget
  * @version 1.0.0
  */
-namespace drsdre\wizardwidget;
+namespace coolanole\wizardwidget;
 
 use yii;
 use yii\base\Widget;
-use yii\web\View;
 use yii\helpers\Html;
+use yii\web\View;
 
 /**
  * Widget for wizard widget

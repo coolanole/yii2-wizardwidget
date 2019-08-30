@@ -4,7 +4,7 @@
  * @package yii2-wizardwidget
  * @version 1.0.0
  */
-namespace drsdre\wizardwidget;
+namespace coolanole\wizardwidget;
 
 use yii\web\AssetBundle;
 
@@ -16,7 +16,7 @@ use yii\web\AssetBundle;
  */
 class WizardWidgetAsset extends AssetBundle
 {
-	public $sourcePath = '@drsdre/wizardwidget';
+	public $sourcePath = '@coolanole/wizardwidget';
 	public $depends = [
 		'yii\web\YiiAsset',
 		'yii\bootstrap\BootstrapPluginAsset'
