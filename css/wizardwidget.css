@@ -73,18 +73,6 @@
 	width: 25%;
 }
 
-.wizard li:after {
-	content: " ";
-	position: absolute;
-	left: 50%;
-	transform: translateX(-50%);
-	opacity: 0;
-	bottom: 0;
-	border: 5px solid transparent;
-	border-bottom-color: #5bc0de;
-	transition: 0.1s ease-in-out;
-}
-
 .wizard li.active:after {
 	opacity: 1;
 	border: 10px solid transparent;
