@@ -19,7 +19,6 @@ class WizardWidgetAsset extends AssetBundle
 	public $sourcePath = '@coolanole/wizardwidget';
 	public $depends = [
 		'yii\web\YiiAsset',
-		'yii\bootstrap\BootstrapPluginAsset'
 	];
 	public $css = [
 		'css/wizardwidget.css',
